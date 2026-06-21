@@ -333,7 +333,7 @@ The Student Performance Tracking System demonstrates how machine learning can be
 
 This project serves as a strong foundation for future educational analytics systems and highlights the potential of Artificial Intelligence and Machine Learning in transforming modern education.
 
-#AUTHOR 
+# AUTHOR 
 
 Biplob Kumar Dutta 
 # INTERN ID - CTIS9255
