@@ -332,3 +332,8 @@ The successful implementation of this project can help educational institutions:
 The Student Performance Tracking System demonstrates how machine learning can be applied in the field of education to generate meaningful insights and improve academic outcomes. By using the XGBoost algorithm, the system can accurately predict student performance and identify factors that contribute to success or failure.
 
 This project serves as a strong foundation for future educational analytics systems and highlights the potential of Artificial Intelligence and Machine Learning in transforming modern education.
+
+#AUTHOR 
+*Biplob Kumar Dutta 
+# INTERN ID - CTIS9255
+# DURATION - 8 WEEK
