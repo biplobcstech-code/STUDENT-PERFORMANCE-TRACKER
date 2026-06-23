@@ -335,6 +335,6 @@ This project serves as a strong foundation for future educational analytics syst
 
 # AUTHOR 
 
-Biplob Kumar Dutta 
-# INTERN ID - CTIS9255
-# DURATION - 8 WEEK
+* Biplob Kumar Dutta 
+* INTERN ID - CTIS9255
+* DURATION - 8 WEEK
